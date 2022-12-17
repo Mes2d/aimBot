@@ -1,4 +1,4 @@
-![2021 Twitter logo - blue](https://user-images.githubusercontent.com/106308342/208211675-c2459c4d-0420-4d2c-8b21-31f39b9615ee.png)
+<img src="https://user-images.githubusercontent.com/106308342/208211675-c2459c4d-0420-4d2c-8b21-31f39b9615ee.png" alt="Twitter logo" width="50">
  Simple aimBot
  You May Need To Add Smoth Sys For Aimbot
 # Project Settings 
