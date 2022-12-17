@@ -7,4 +7,4 @@
 now you can start coding and adding your offsets
 # Please if there issues contact me 
 # Twitter @xdenlz
-<img src="C:\Users\BzMus\Desktop\screenShots" alt="Twitter logo" width="50">
+<img src="https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/path/to/image.png" alt="Twitter logo" width="50">
