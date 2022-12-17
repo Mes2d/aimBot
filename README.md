@@ -9,8 +9,8 @@ You may need to add a smooth system for the aimbot.
 3. Character Set: "Use Multi-Byte Character Set"
 
 ## Usage
-
-Now you can start coding and adding your offsets.
+Just clone the sln file and set up the settings
+and start coding and adding your offsets.
 
 ## Troubleshooting
 
