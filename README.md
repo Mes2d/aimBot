@@ -7,4 +7,4 @@
 # now you can start coding and adding your offsets
 # Please if there issues contact me 
 
-<img src="https://user-images.githubusercontent.com/106308342/208211675-c2459c4d-0420-4d2c-8b21-31f39b9615ee.png" alt="Twitter logo" width="50"> @xdenlz
+<a href="https://twitter.com/xdenlz"><img src="https://user-images.githubusercontent.com/106308342/208211675-c2459c4d-0420-4d2c-8b21-31f39b9615ee.png" alt="Twitter logo" width="50"></a>
